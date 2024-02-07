@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Norman Reinhard from @codebros-nl
 - 👀 I’m interested in creating awesome experiences with web development
-- 🌱 I’m currently learning NuxtJS
+- 🌱 I’m currently learning more about headless web development
 - 💞️ I’m looking to collaborate on interactive projects
 - 📫 info@codebros.nl
 
